@@ -8,7 +8,7 @@ Para implementar este clasificador, escogimos la metrica de AUC como guia a la h
 
 ## Motivación
 
-Los datasets presentes en [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) resultan de suma importancia para el análisis de problemáticas sociales en la Ciudad de Buenos Aires, entre ellas, la violencia de parejas. En la pandemia, diferentes medios, revistas y canales de televisión hicieron énfasis en el recrudecimiento de este tipo de violencia, exacerbado en un contexto de encierro inusual para la sociedad toda, donde problemas tales como el hacinamiento o los problemas de infraestructura estuvieron presentes en numerosos hogares de la Capital.
+Los datasets presentes en [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) resultan de suma importancia para el análisis de problemáticas sociales en la Ciudad de Buenos Aires, entre ellas, la violencia de parejas. En la pandemia, diferentes medios, revistas y canales de televisión hicieron énfasis en el recrudecimiento de este tipo de violencia exacerbada en un contexto de encierro inusual para la sociedad toda, donde problemas tales como el hacinamiento o los problemas de infraestructura estuvieron presentes en numerosos hogares de la Capital.
 
 Poder trabajar con estos datos es, además de una posibilidad enorme de analizar una problemática presente en muchos hogares porteños, un puntapié para la formulación de nuevas preguntas. La existencia de trabajos previos, señalados a continuación, nos da la pauta que es un tema ya revisado y estudiado, pero que sin embargo, y a pesar de no ser especialistas, nos convoca como ciudadanos. 
 
