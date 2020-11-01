@@ -6,6 +6,12 @@ El gobierno de la ciudad de Buenos Aires a traves del portal [data.buenosaires.g
 
 Para implementar este clasificador, escogimos la metrica de AUC como guia a la hora de escoger el modelo, tanto para hyperparameter tuning como para la evaluacion entre distintos modelos. La metrica de AUC nos permite ver el performace general tomando distintos umbrales de decision, estos ultimos no son parte de este proyecto.
 
+## Motivación
+
+Los datasets presentes en [data.buenosaires.gob.ar](https://data.buenosaires.gob.ar/) resultan de suma importancia para el análisis de problemáticas sociales en la Ciudad de Buenos Aires, entre ellas, la violencia de parejas. En la pandemia, diferentes medios, revistas y canales de televisión hicieron énfasis en el recrudecimiento de este tipo de violencia, exacerbado en un contexto de encierro inusual para la sociedad toda, donde problemas tales como el hacinamiento o los problemas de infraestructura estuvieron presentes en numerosos hogares de la Capital.
+
+Poder trabajar con estos datos es, además de una posibilidad enorme de analizar una problemática presente en muchos hogares porteños, un puntapié para la formulación de nuevas preguntas. La existencia de trabajos previos, señalados a continuación, nos da la pauta que es un tema ya revisado y estudiado, pero que sin embargo, y a pesar de no ser especialistas, nos convoca como ciudadanos. 
+
 ## Trabajos previos
 
 Existen diversidad de trabajos previos relacionados con este, en primera instancia [el test en si mismo](https://data.buenosaires.gob.ar/dataset/test-alerta-sobre-noviazgo-violento) y otros que listamos a continuacion:
