@@ -26,6 +26,22 @@ Poder trabajar con estos datos es, además de una posibilidad enorme de analizar
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/outliersedad.png)
 
+### Encuestas completas por Comuna
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/encuestascompletasporcomuna.png)
+
+### Porcentaje de mujeres por Comuna
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/porcentajedemujeresporcomuna.png)
+
+### Promedio de edad de varones que completaron la encuesta por Comuna
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/promediodeedaddevaronesquecompletaronlaencuesta.png)
+
+### Promedio de edad de mujeres que completaron la encuesta por Comuna
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/promediodeedaddemujeresquecompletaronlaencuesta.png)
+
 ## Resultados
 
 ### True Positive Rate vs False Positive Rate
