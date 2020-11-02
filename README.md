@@ -40,11 +40,13 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/tpr-vs-fpr.png)
 
-
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/matrixconfusion.png)
 
 ### ROC Curve
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/roc-auc-final.png)
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/ROC%20AUC.png)
 
 
 
