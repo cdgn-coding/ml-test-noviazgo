@@ -18,3 +18,16 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 * [Noviazgos violentos en la Ciudad de Buenos Aires, 2019](https://datosgcba.github.io/curso-datos/trabajos/noviazgos.html)
 * [¿En qué barrios las mujeres sufren más violencia en sus noviazgos?, 2018](https://blog.properati.com.ar/en-que-barrios-las-mujeres-sufren-mas-violencia-en-sus-noviazgos/)
+
+
+## Resultados de la exploración de datos
+
+Personas encuestadas por barrio
+
+![alt text](https://github.com/[cnexans]/[ml-test-noviazgo]/blob/[Imagenes]/barriosdelosencuestados.png?raw=true)
+
+
+## Resultados
+
+
+
