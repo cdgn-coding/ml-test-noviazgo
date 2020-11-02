@@ -26,16 +26,25 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/barriosdelosencuestados.png)
 
-### Géneros encuestados
+### Género de las personas encuestadas
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/generoencuestados.png)
 
-### Personas encuestadas por barrio
+### Outliers de edad
 
-![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/roc-auc-final.png)
-
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/outliersedad.png)
 
 ## Resultados
+
+### True Positive Rate vs False Positive Rate
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/tpr-vs-fpr.png)
+
+
+
+### ROC Curve
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/roc-auc-final.png)
 
 
 
