@@ -24,7 +24,7 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 Personas encuestadas por barrio
 
-![alt text](https://github.com/[cnexans]/[ml-test-noviazgo]/blob/[Imagenes]/barriosdelosencuestados.png?raw=true)
+(https://github.com/[cnexans]/[ml-test-noviazgo]/blob/[Imagenes]/barriosdelosencuestados.png?raw=true)
 
 
 ## Resultados
