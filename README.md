@@ -26,6 +26,10 @@ Poder trabajar con estos datos es, además de una posibilidad enorme de analizar
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/outliersedad.png)
 
+### Densidad de población por Comuna
+
+![] (https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/map.png)
+
 ### Encuestas completas por Comuna
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/encuestascompletasporcomuna.png)
