@@ -22,7 +22,15 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 ## Resultados de la exploración de datos
 
-Personas encuestadas por barrio
+### Barrios de las personas encuestadas
+
+![] (https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/barriosdelosencuestados.png)
+
+### Géneros encuestados
+
+![] (https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/generoencuestados.png)
+
+### Personas encuestadas por barrio
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/roc-auc-final.png)
 
