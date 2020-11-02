@@ -24,11 +24,11 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 ### Barrios de las personas encuestadas
 
-![] (https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/barriosdelosencuestados.png)
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/barriosdelosencuestados.png)
 
 ### Géneros encuestados
 
-![] (https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/generoencuestados.png)
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/generoencuestados.png)
 
 ### Personas encuestadas por barrio
 
