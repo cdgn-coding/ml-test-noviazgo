@@ -12,14 +12,6 @@ Los datasets presentes en [data.buenosaires.gob.ar](https://data.buenosaires.gob
 
 Poder trabajar con estos datos es, además de una posibilidad enorme de analizar una problemática presente en muchos hogares porteños, un puntapié para la formulación de nuevas preguntas. La existencia de trabajos previos, señalados a continuación, nos da la pauta que es un tema ya revisado y estudiado, pero que sin embargo, y a pesar de no ser especialistas, nos convoca como ciudadanos. 
 
-## Trabajos previos
-
-Existen diversidad de trabajos previos relacionados con este, en primera instancia [el test en si mismo](https://data.buenosaires.gob.ar/dataset/test-alerta-sobre-noviazgo-violento) y otros que listamos a continuacion:
-
-* [Noviazgos violentos en la Ciudad de Buenos Aires, 2019](https://datosgcba.github.io/curso-datos/trabajos/noviazgos.html)
-* [¿En qué barrios las mujeres sufren más violencia en sus noviazgos?, 2018](https://blog.properati.com.ar/en-que-barrios-las-mujeres-sufren-mas-violencia-en-sus-noviazgos/)
-
-
 ## Resultados de la exploración de datos
 
 ### Barrios de las personas encuestadas
@@ -40,11 +32,28 @@ Existen diversidad de trabajos previos relacionados con este, en primera instanc
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/tpr-vs-fpr.png)
 
-
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/matrixconfusion.png)
 
 ### ROC Curve
 
 ![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/roc-auc-final.png)
+
+![](https://github.com/cnexans/ml-test-noviazgo/blob/master/Imagenes/ROC%20AUC.png)
+
+## Equipo
+
+* [David G. Nexans](https://github.com/cnexans)
+* [Guido Mitolo](https://github.com/guidomitolo)
+* [Thomas Artopoulos](https://github.com/thomasartopoulos)
+* [Jonatan Smith](https://github.com/John31991)
+
+
+## Trabajos previos
+
+Existen diversidad de trabajos previos relacionados con este, en primera instancia [el test en si mismo](https://data.buenosaires.gob.ar/dataset/test-alerta-sobre-noviazgo-violento) y otros que listamos a continuacion:
+
+* [Noviazgos violentos en la Ciudad de Buenos Aires, 2019](https://datosgcba.github.io/curso-datos/trabajos/noviazgos.html)
+* [¿En qué barrios las mujeres sufren más violencia en sus noviazgos?, 2018](https://blog.properati.com.ar/en-que-barrios-las-mujeres-sufren-mas-violencia-en-sus-noviazgos/)
 
 
 
